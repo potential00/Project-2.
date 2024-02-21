@@ -1,0 +1,27 @@
+body{
+    background-image:url('himage.jpeg');
+    /* background-repeat: no-repeat; */
+    
+}
+header{
+    
+    display: flex;
+    justify-content: center;
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    
+    
+}
+#btn{
+    
+    text-align: center;
+    color:white;
+    margin-left: 65%;
+    background-color:blue;
+}
+section{
+    margin-top: 20%;
+    
+}
